@@ -46,7 +46,7 @@
     "cors": "^2.8.5",
     "dayjs": "^1.11.7",
     "dompurify": "^3.0.8",
-    "ethers": "^5.7.2",
+    "ethers": "^6.0.0",
     "graphql": "^16.8.1",
     "graphql-request": "^6.1.0",
     "graphql-tag": "^2.12.6",
